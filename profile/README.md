@@ -4,4 +4,4 @@ We are building the next generation of rollup.
 
 https://x.com/Spire_Labs
 
-(more soon)
+Read our litepaper: https://github.com/spire-labs/litepaper
