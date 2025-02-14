@@ -8,7 +8,7 @@ Spire Labs is dedicated to advancing Ethereum scaling infrastructure. We aim to 
 
 ## Our Work
 
-Our primary focus is the development of the **Based Stack**, which includes:
+Our primary focus is the development of the **Based Stack**
 
 - **Litepaper**: An in-depth overview of our approach and technology.  
   [Read our litepaper](https://github.com/spire-labs/litepaper/blob/main/The%20Based%20Stack%20by%20Spire%20Labs%20-%20Litepaper.pdf).
